@@ -5,6 +5,7 @@
 - `git checkout -b <new branch>`
 - `git switch <branch name>`
 - `git branch`
+- `git branch -d <branch name>`
 
 - `git remote add <new remote repository name> <URL>`
 - `git push <remote repository> <branch>`
