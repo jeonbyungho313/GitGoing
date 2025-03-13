@@ -9,3 +9,5 @@
 - `git remote add <new remote repository name> <URL>`
 - `git push <remote repository> <branch>`
 - `git pull <remote repository> <branch>`
+
+- `git show`
