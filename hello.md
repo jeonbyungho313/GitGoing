@@ -1,0 +1,4 @@
+```
+git add <file name>
+```
+
